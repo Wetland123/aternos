@@ -1,0 +1,6 @@
+{
+	"ip":"wetland.aternos.me",
+	"port": "25565",
+	"name": "wetbot",
+	"auto-night-skip":"false"
+}
