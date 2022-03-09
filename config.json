@@ -1,6 +1,6 @@
 {
-	"ip":"wetland.aternos.me",
-	"port": "53318",
-	"name": "wetbot",
+	"ip":"wetlandcode.aternos.me",
+	"port": "40897",
+	"name": "wetlandbot",
 	"auto-night-skip":"false"
 }
